@@ -3,10 +3,10 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/rishianand39/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/rishianand-dev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:rishianand.w@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://rishianand.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://github.com/rishianand39"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/rishianand-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -32,10 +32,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishianand39&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishianand-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishianand39&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishianand-dev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishianand39&theme=radical&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rishianand-dev&theme=radical&row=1&column=6" alt="trophies" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 🌐 Let’s Connect  
 📧 **Email:** [rishianand.w@gmail.com](mailto:rishianand.w@gmail.com)  
 🌎 **Portfolio:** [rishianand.netlify.app](https://rishianand.netlify.app/)  
-💼 **LinkedIn:** [linkedin.com/in/rishianand39](https://www.linkedin.com/in/rishianand39/)
+💼 **LinkedIn:** [linkedin.com/in/rishianand-dev](https://www.linkedin.com/in/rishianand-dev/)
 
 ---
 
